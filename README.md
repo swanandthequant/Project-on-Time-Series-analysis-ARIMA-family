@@ -25,7 +25,7 @@ Made a small function to do Likelihood Ratio test so I can compare models easily
 
 Tried AR(1), AR(2), AR(3).
 
-Looked at p-values and LLR results – AR(1) was good enough so I stopped there.
+Looked at p-values and LLR results – AR(1) was good enough for using (as LLR for others were way more than our significance level 5%)
 
 Residuals were checked and looked okay (mean close to 0, no big spikes).
 
