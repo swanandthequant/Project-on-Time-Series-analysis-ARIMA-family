@@ -67,4 +67,7 @@ Another point is that statistical models are good for short-term forecasting but
 
 3.Dataset itself could have been expanded with more years or minute-level data for deeper insights.
 
+## Recent update
+I recently updated this file is same only thing Changes is the Evaluations metrics I used this get the best model I used in them It was the ARMAX model 
+
 ## Note: This analysis is for academic/learning purpose only. Please don’t take this as investment advice.
